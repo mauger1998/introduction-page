@@ -45,9 +45,10 @@ main {
 .header {
     width: 35vw;
     font-size:30px;
-    line-height: 1;
+    line-height: 1.5;
     font-family: 'Poppins', sans-serif;
     margin-top: 50px;
+    margin-bottom:0;
 
     
 }
@@ -58,6 +59,7 @@ main {
     line-height: 30px;
     font-family: 'Open Sans', sans-serif;
     color: rgba(253, 250, 250, 0.632);
+    margin-top: 0px;
     
 }
 
@@ -70,7 +72,7 @@ main {
     background-color: white;
     color:hsl(257, 40%, 49%);
     font-size:20px;
-    margin-bottom: 35px;
+    margin-bottom: 50px;
     font-family: 'Open Sans', sans-serif;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
