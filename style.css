@@ -64,4 +64,5 @@ button {
     border: 1px solid white;
     padding:30px;
     background-color: white;
+    color:hsl(257, 40%, 49%);
 }
