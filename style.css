@@ -46,7 +46,8 @@ button {
 .header {
     border: 1px solid white;;
     width: 40vw;
-    font-size:35px;
+    font-size:32px;
+    margin-left: 40px;;
 }
 
 .para {
