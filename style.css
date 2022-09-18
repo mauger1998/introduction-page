@@ -22,10 +22,12 @@ main {
     flex-direction:column;
     justify-content: center;
     color:white;
+    
 }
 
 .left-section {
     border: 1px solid white;
+    margin-left:50px;
     
 }
 button {
