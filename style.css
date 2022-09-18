@@ -62,9 +62,11 @@ button {
 
 .btn {
     display:flex;
+    justify-content: center;
     border: 1px solid white;
-    padding:30px;
-    width:150px;
+    padding:25px;
+    border-radius: 80px;;
+    width:200px;
     background-color: white;
     color:hsl(257, 40%, 49%);
 }
