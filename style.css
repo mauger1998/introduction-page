@@ -64,9 +64,11 @@ button {
     display:flex;
     justify-content: center;
     border: 1px solid white;
-    padding:25px;
+    padding:25px 50px;
     border-radius: 80px;;
-    width:200px;
+    width:175px;
     background-color: white;
     color:hsl(257, 40%, 49%);
+    font-size:20px;
+    margin-bottom: 100px;
 }
