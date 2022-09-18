@@ -42,3 +42,17 @@ button {
     width:200px;
     
 }
+
+.header {
+    border: 1px solid white;;
+    width: 40vw;
+    font-size:35px;
+}
+
+.para {
+    border:1px solid white;
+}
+
+.btn {
+    border: 1px solid white;;
+}
