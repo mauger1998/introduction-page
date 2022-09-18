@@ -82,11 +82,16 @@ main {
 
 }
 
-
-.icons {
+.logos{
     width:50px;
+    background-color: white;
+    border-radius: 15px;
+}
+.icons {
+    width:40vw;
     border:1px solid white;
     margin:0;
     display: flex;
-    align-items: flex-end;
+    justify-content: flex-end;
+    color:white;
 }
