@@ -21,9 +21,13 @@ main {
     display:flex;
     flex-direction:column;
     justify-content: center;
+    color:white;
 }
 
 .left-section {
     border: 1px solid white;
     
+}
+button {
+    width:200px;
 }
