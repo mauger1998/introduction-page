@@ -11,3 +11,11 @@ body {
 main {
     display:flex;
 }
+
+.right-section {
+    border: 1px solid white;
+}
+
+.left-section {
+    border: 1px solid white;
+}
