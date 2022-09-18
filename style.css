@@ -61,8 +61,10 @@ button {
 }
 
 .btn {
+    display:flex;
     border: 1px solid white;
     padding:30px;
+    width:150px;
     background-color: white;
     color:hsl(257, 40%, 49%);
 }
