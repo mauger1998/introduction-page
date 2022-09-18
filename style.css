@@ -43,10 +43,8 @@ main {
     
     
 }
-button {
-    width:200px;
-    
-}
+
+
 
 .header {
     border: 1px solid white;;
@@ -54,6 +52,7 @@ button {
     font-size:30px;
     line-height: 1;
     font-family: 'Poppins', sans-serif;
+    margin-top: 50px;
 
     
 }
@@ -61,7 +60,7 @@ button {
 .para {
     border:1px solid white;
     width:35vw;
-    font-size: 17px;
+    font-size: 17.5px;
     line-height: 30px;
     font-family: 'Open Sans', sans-serif;
     color: rgba(253, 250, 250, 0.632);
@@ -71,14 +70,19 @@ button {
 .btn {
     display:flex;
     justify-content: center;
-    border: 1px solid white;
-    padding:25px 50px;
+    padding:20px 40px;
     border-radius: 80px;;
     width:175px;
     background-color: white;
     color:hsl(257, 40%, 49%);
     font-size:20px;
-    margin-bottom: 125px;
+    margin-bottom: 0px;
     font-family: 'Open Sans', sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
+}
+.icons {
+    width:50px;
+    border:1px solid white;
+    margin:0;
 }
